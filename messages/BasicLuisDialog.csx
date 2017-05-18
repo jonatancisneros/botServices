@@ -6,7 +6,7 @@ using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
 
-// For more information about this template visit http://aka.ms/azurebots-csharp-luis
+// For more information about this template visit http://aka.ms/azurebots-csharp-luist
 [Serializable]
 public class BasicLuisDialog : LuisDialog<object>
 {
